@@ -1,4 +1,4 @@
-# 🎥 SandoBlog
+# 🥪 SandoBlog
 
 샌드위치를 사랑하는 이들을 위한 샌드위치 정보 제공 & 한줄평 작성 웹사이트
 
@@ -19,14 +19,13 @@
 
 # 🔧 개발환경
 ## Front
-
+mustache, bootstrap
 
 ## Back
-
-
+spring boot
 
 ### 그외 사용한 패키지
-
+h2 database
 
 <br />
 
